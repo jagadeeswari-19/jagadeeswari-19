@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Jagadeeswari S
 
-<!--
-**jagadeeswari-19/jagadeeswari-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science Graduate  
+📊 Machine Learning & Deep Learning Enthusiast  
+🌱 AI for Plant & Animal Disease Detection  
+📄 IEEE Research Paper Author  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- Machine Learning
+- Deep Learning
+- Flask
+- SQL
+- PowerBI
+- TensorFlow / Keras
+
+
+
+## 🔬 Projects
+
+### 🌿 Plant & Animal Disease Detection
+AI-powered web app that detects plant and animal diseases using Deep Learning.
+
+### 🚔 Crime Detection & Prediction System
+Machine learning approach using Random Forest, Gradient Boosting & Flask.
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/jagadeeswari-analyst/
+- Email: jagadeeswaris558@gmail.com
+
