@@ -1,33 +1,30 @@
-# Hi 👋 I'm Jagadeeswari S
+# Hi, I'm Jagadeeswari 👋
 
-🎓 B.Tech AI & Data Science Graduate  
-📊 Machine Learning & Deep Learning Enthusiast  
-🌱 AI for Plant & Animal Disease Detection  
-📄 IEEE Research Paper Author  
+Data Analyst skilled in SQL, Power BI, Excel, and Python, focused on transforming data into actionable business insights.
 
+## 🔍 What I Do
+- Data Cleaning & Transformation
+- KPI Dashboard Development
+- Business Analysis & Reporting
 
-## 🚀 Skills
-- Python
-- Machine Learning
-- Deep Learning
-- Flask
-- SQL
-- PowerBI
-- TensorFlow / Keras
+## 📊 Key Achievements
+- Analyzed 50,000+ records to uncover business insights
+- Built Power BI dashboards reducing reporting time by 30%
+- Improved campaign performance by 22% using customer segmentation
 
+## 🚀 Featured Projects
 
+### Customer Segmentation
+- Identified customer groups using Python & SQL
+- Business Impact: Improved marketing targeting and campaign ROI
 
-## 🔬 Projects
+### Employee Attrition Analysis
+- Identified key drivers of employee turnover
+- Business Impact: Supported retention strategy decisions
 
-### 🌿 Plant & Animal Disease Detection
-AI-powered web app that detects plant and animal diseases using Deep Learning.
+### Job Market Analysis
+- Analyzed 19,000+ job postings
+- Business Impact: Identified in-demand skills trends
 
-### 🚔 Crime Detection & Prediction System
-Machine learning approach using Random Forest, Gradient Boosting & Flask.
-
----
-
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/jagadeeswari-analyst/
-- Email: jagadeeswaris558@gmail.com
-
+## 📫 Connect
+LinkedIn: https://www.linkedin.com/in/jagadeeswari-s-jagadeeswari/
