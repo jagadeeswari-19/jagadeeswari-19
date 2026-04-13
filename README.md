@@ -35,13 +35,6 @@ Data Analyst with experience analyzing 50,000+ records and building KPI-driven d
 
 ---
 
-### 📌 Customer Segmentation (K-Means)
-- Segmented customers based on purchasing behavior  
-- Identified high-value customer groups  
-- **Impact:** Improved marketing targeting and campaign ROI  
-
----
-
 ### 📌 Job Market Skill Demand Analysis
 - Analyzed 19,000+ job postings using Python  
 - Identified in-demand tools and skills in the job market  
@@ -64,5 +57,5 @@ Data Analyst with experience analyzing 50,000+ records and building KPI-driven d
 ---
 
 ## 📫 Connect with Me
-🔗 LinkedIn: https://linkedin.com/in/yourname  
+🔗 LinkedIn: https://www.linkedin.com/in/jagadeeswari-s-jagadeeswari 
 🔗 GitHub: https://github.com/jagadeeswari-19  
