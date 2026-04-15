@@ -42,7 +42,7 @@ Data Analyst focused on turning raw data into actionable insights. Experienced i
 - Discovered high-value skill combinations like **Python + SQL**  
 - Built dashboard to visualize job demand and hiring trends  
 
-🔗 [View Project](#)  
+🔗 [View Project]https://github.com/jagadeeswari-19/Job_market-Analytics
 
 ---
 
