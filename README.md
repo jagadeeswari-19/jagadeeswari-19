@@ -51,7 +51,7 @@ Data Analyst focused on turning raw data into actionable insights. Experienced i
 - Analyzed patterns across job roles, salary, and experience  
 - Provided insights to improve retention strategies  
 
-🔗 [View Project](#)
+🔗 [View Project]https://github.com/jagadeeswari-19/Employee-Attrition-Analysis
 
 ---
 
