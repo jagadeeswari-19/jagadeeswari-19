@@ -1,4 +1,4 @@
-# Hi, I'm Jagadeeswari 👋  
+# Hi, I'm Jagadeeswari 👋
 
 **Data Analyst | SQL · Python · Power BI · Tableau**
 
@@ -7,62 +7,74 @@ Data Analyst focused on turning raw data into actionable insights. Experienced i
 ---
 
 ## 🔍 What I Do
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- SQL-based Data Analysis  
-- KPI Dashboard Development  
-- Business Insights & Reporting  
+
+* Data Cleaning & Transformation
+* Exploratory Data Analysis (EDA)
+* SQL-based Data Analysis
+* KPI Dashboard Development
+* Business Insights & Reporting
 
 ---
 
 ## 📊 Key Achievements
-- Analyzed 50,000+ records to uncover trends and improve decision-making  
-- Reduced reporting time by 30% through automated dashboards  
-- Improved campaign performance by 22% using customer segmentation  
-- Analyzed 19,000+ job postings to identify in-demand skills and trends  
+
+* Analyzed 50,000+ records to uncover trends and improve decision-making
+* Reduced reporting time by 30% through automated dashboards
+* Improved campaign performance by 22% using customer segmentation
+* Analyzed 19,000+ job postings to identify in-demand skills and trends
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 📌 E-Commerce Sales Analytics Dashboard (End-to-End)
-- Built KPI dashboard tracking **Sales, Profit, and Profit Margin**  
-- Analyzed 10,000+ records using SQL and Python  
-- Identified underperforming regions causing an **18% profit gap**  
-- Discovered that discounts above **30% reduce profitability**  
-- Created visualizations for monthly sales trends and forecasting  
+### 📌 E-commerce Profitability & Discount Impact Analysis (End-to-End)
 
-🔗 [View Project](https://github.com/jagadeeswari-19/ecommerce-sales-analytics)
+* Analyzed transactional data to identify causes of declining profitability despite high sales
+* Performed SQL-based KPI analysis (Sales, Profit, Discount)
+* Discovered that high discounting is the primary driver of losses
+* Identified loss-making products and underperforming categories
+* Built an interactive Power BI dashboard for business insights
+* Provided actionable recommendations to improve pricing and margins
+
+🔗 [View Project](https://github.com/jagadeeswari-19/Ecommerce_Profitability_-Analysis)
 
 ---
 
 ### 📌 Job Market Analytics (SQL + Python + Power BI)
-- Extracted and analyzed data from **19,000+ job postings**  
-- Performed SQL analysis to identify **top skills, job trends, and locations**  
-- Discovered high-value skill combinations like **Python + SQL**  
-- Built dashboard to visualize job demand and hiring trends  
 
-🔗 [View Project]https://github.com/jagadeeswari-19/Job_market-Analytics
+* Extracted and analyzed data from 19,000+ job postings
+* Performed SQL analysis to identify top skills, job trends, and locations
+* Discovered high-value skill combinations like Python + SQL
+* Built dashboard to visualize job demand and hiring trends
+
+🔗 [View Project](https://github.com/jagadeeswari-19/Job_market-Analytics)
 
 ---
 
 ### 📌 Employee Attrition Analysis
-- Identified key factors influencing employee turnover  
-- Analyzed patterns across job roles, salary, and experience  
-- Provided insights to improve retention strategies  
 
-🔗 [View Project]https://github.com/jagadeeswari-19/Employee-Attrition-Analysis
+* Identified key factors influencing employee turnover
+* Analyzed patterns across job roles, salary, and experience
+* Provided insights to improve retention strategies
+
+🔗 [View Project](https://github.com/jagadeeswari-19/Employee-Attrition-Analysis)
 
 ---
 
 ## 🛠 Tools & Technologies
-**Languages:** SQL, Python  
-**Libraries:** Pandas, NumPy, Matplotlib  
-**Visualization:** Power BI, Tableau  
-**Other Tools:** Excel  
+
+* **Languages:** SQL, Python
+* **Libraries:** Pandas, NumPy, Matplotlib
+* **Visualization:** Power BI, Tableau
+* **Other Tools:** Excel
 
 ---
 
 ## 📫 Connect with Me
-🔗 LinkedIn: https://www.linkedin.com/in/jagadeeswari-s-jagadeeswari  
-🔗 GitHub: https://github.com/jagadeeswari-19   
+
+🔗 [LinkedIn](https://www.linkedin.com/in/jagadeeswari-s-jagadeeswari)
+🔗 [GitHub](https://github.com/jagadeeswari-19)
+
+
+
+ 
