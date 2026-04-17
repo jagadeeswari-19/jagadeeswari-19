@@ -18,46 +18,49 @@ Data Analyst focused on turning raw data into actionable insights. Experienced i
 
 ## 📊 Key Achievements
 
-* Analyzed 50,000+ records to uncover trends and improve decision-making
-* Reduced reporting time by 30% through automated dashboards
-* Improved campaign performance by 22% using customer segmentation
-* Analyzed 19,000+ job postings to identify in-demand skills and trends
+* Analyzed **50,000+ records** to uncover trends and improve decision-making
+* Reduced reporting time by **30%** through automated dashboards
+* Improved campaign performance by **22%** using customer segmentation
+* Analyzed **19,000+ job postings** to identify in-demand skills and trends
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 E-commerce Profitability & Discount Impact Analysis (End-to-End)
+### 📌 User Funnel Analysis (E-commerce Conversion Optimization)
 
-* Analyzed transactional data to identify causes of declining profitability despite high sales
+* Built a **behavior-based funnel model** using user activity data (8,000+ records)
+* Identified major **drop-offs between visit and engagement stages**
+* Analyzed **device-wise and ad-click conversion performance**
+* Discovered that **high engagement does not guarantee conversion**
+* Highlighted limitations of non-event-based tracking (real-world scenario)
+* Developed **Power BI dashboard** for funnel and conversion insights
+
+🔗 View Project: https://github.com/jagadeeswari-19/Funnel-Analysis
+
+---
+
+### 📌 E-commerce Profitability & Discount Impact Analysis
+
+* Analyzed transactional data to identify causes of declining profitability
 * Performed SQL-based KPI analysis (Sales, Profit, Discount)
-* Discovered that high discounting is the primary driver of losses
+* Found that **high discounting drives profit loss**
 * Identified loss-making products and underperforming categories
-* Built an interactive Power BI dashboard for business insights
-* Provided actionable recommendations to improve pricing and margins
+* Built interactive Power BI dashboard
+* Delivered pricing and margin improvement recommendations
 
-🔗 [View Project](https://github.com/jagadeeswari-19/Ecommerce_Profitability_-Analysis)
+🔗 View Project: https://github.com/jagadeeswari-19/Ecommerce_Profitability_-Analysis
 
 ---
 
 ### 📌 Job Market Analytics (SQL + Python + Power BI)
 
-* Extracted and analyzed data from 19,000+ job postings
-* Performed SQL analysis to identify top skills, job trends, and locations
-* Discovered high-value skill combinations like Python + SQL
-* Built dashboard to visualize job demand and hiring trends
+* Analyzed **19,000+ job postings** to identify hiring trends
+* Extracted insights on **top skills, roles, and locations**
+* Identified high-value skill combinations like **Python + SQL**
+* Built dashboard to visualize job demand
 
-🔗 [View Project](https://github.com/jagadeeswari-19/Job_market-Analytics)
-
----
-
-### 📌 Employee Attrition Analysis
-
-* Identified key factors influencing employee turnover
-* Analyzed patterns across job roles, salary, and experience
-* Provided insights to improve retention strategies
-
-🔗 [View Project](https://github.com/jagadeeswari-19/Employee-Attrition-Analysis)
+🔗 View Project: https://github.com/jagadeeswari-19/Job_market-Analytics
 
 ---
 
@@ -72,8 +75,9 @@ Data Analyst focused on turning raw data into actionable insights. Experienced i
 
 ## 📫 Connect with Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/jagadeeswari-s-jagadeeswari)
-🔗 [GitHub](https://github.com/jagadeeswari-19)
+* 🔗 LinkedIn: https://www.linkedin.com/in/jagadeeswari-s-jagadeeswari
+* 🔗 GitHub: https://github.com/jagadeeswari-19
+
 
 
 
